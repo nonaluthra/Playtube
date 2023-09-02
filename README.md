@@ -21,9 +21,8 @@
 ---
 
 ## Features 📋
-<li>
-  <ol>
-       ⚡️ Browse videos using the left navigation bar video categories
+
+       **1.** Browse videos using the left navigation bar video categories
        ⚡️ Search for videos using the search bar
        ⚡️ Play videos with full controls, just like YouTube
        ⚡️ Get suggested video lists during video playback
@@ -32,9 +31,7 @@
        ⚡️ Fully responsive design to ensure compatibility with all devices
        ⚡️ PlayTube's Shimmer UI effect adds a subtle, eye-catching animation that lets users know when content is loading, enhancing the overall user experience and making it more visually appealing.
        ⚡️ PlayTube comes with a Light and Dark mode feature. This feature automatically matches the user's browser theme preference upon loading, with the option to toggle between modes at any time for a personalized viewing experience.
-  </ol>
-</li>
-
+  
 
 ## Pages 📚
 
