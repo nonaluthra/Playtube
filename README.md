@@ -3,7 +3,7 @@
 <h1><strong>PlayTube</strong> - watch share & enjoy</h1>
 
 <h2>
-  <a href="https://playtube-eight.vercel.app/">Live Project Link</a>
+  <a href="https://playtube-opal.vercel.app/">Live Project Link</a>
 </h2>
 
 <div align="center">
